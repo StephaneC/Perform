@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Perform</string>
+    <string name="welcome">Benvenu sur Perform</string>
+    <string name="explain">Expliquer</string>
+    <string name="relax">Se relaxer</string>
+    <string name="excercises">Mes excercies</string>
+    <string name="metro">Métronome</string>
+</resources>
