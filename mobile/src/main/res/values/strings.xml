@@ -5,4 +5,11 @@
     <string name="relax">Se relaxer</string>
     <string name="excercises">Mes excercies</string>
     <string name="metro">Métronome</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_tuto1">Tuto 1</string>
+    <string name="text_tuto2">tuto 2</string>
+    <string name="text_tuto3">tuto 3</string>
 </resources>
